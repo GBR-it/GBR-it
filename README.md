@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my development about programming,
 - 📫 You can reach me by e-mail,
 - 😄 Pronouns: Mom to a two beatuful girls,
-- ⚡ Fun fact: I'm not the only one in the family who wants to study about programming..
+- ⚡ Fun fact: I'm funny to😂..
 
 <!---
 GBR-it/GBR-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
