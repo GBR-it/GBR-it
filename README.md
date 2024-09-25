@@ -5,6 +5,7 @@
 - 📫 You can reach me by e-mail,
 - 😄 Pronouns: Mom to a two beatuful girls,
 - ⚡ Fun fact: I'm funny to😂..
+- 😄HTML and CSS is fun to work with..
 
 <!---
 GBR-it/GBR-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
